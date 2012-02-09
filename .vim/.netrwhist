@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/opt/deploy/config/tethys/nginx/conf.d'
+let g:netrw_dirhist_2='/opt/caresharing/spawngebob/lib/spawngebob/compilers'
+let g:netrw_dirhist_3='/opt/palmade/test/tools/lib/popo_tools/gather'
+let g:netrw_dirhist_4='/home/jan/.vim'
+let g:netrw_dirhist_5='/home/jan/.vim/autoload'
